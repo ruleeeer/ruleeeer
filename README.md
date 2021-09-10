@@ -1,21 +1,21 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
 # Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
 My name is ruleeeer and I'm a software developer. I'm from china.
 <br>
 <br>
 <a href="https://github.com/ruleeeer">
-<img align="left" alt="Ajay's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="ruleeeer's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/ruleeeer">
-<img align="left" alt="Ajay's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="ruleeeer's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>  
 <a href="mailto:me@ruleeeer.cn">
-<img align="left" alt="Ajay's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" alt="ruleeeer's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
 <br>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/ruleeeer">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> -->
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true"/>
 </a>
