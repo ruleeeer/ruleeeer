@@ -1,24 +1,26 @@
 
 # Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br>
-My name is ruleeeer and I'm a software developer. I'm from china.
-<br>
-<br>
-<a href="https://github.com/ruleeeer">
-<img align="left" alt="ruleeeer's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/ruleeeer">
-<img align="left" alt="ruleeeer's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>  
-<a href="mailto:me@ruleeeer.cn">
-<img align="left" alt="ruleeeer's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br>
+
+### My name is ruleeeer and I'm a software developer. I'm from china.
 <br>
 <a href="https://github.com/ruleeeer">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> -->
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true"/>
 </a>
+<br>
+
+### You can contact me on ...
+<a href="https://github.com/ruleeeer">
+<img align="left" alt="ruleeeer's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/ruleeeer">
+<img align="left" alt="ruleeeer's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>  
+<a href="mailto:me@ruleeeer.cn">
+<img align="left" alt="ruleeeer's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br>
+
 
 
 
