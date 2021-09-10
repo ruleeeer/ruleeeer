@@ -1,7 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-# Hello,World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is ruleeeer and I'm a software developer. I'm from china, You can find me on
+# Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br>
+My name is ruleeeer and I'm a software developer. I'm from china.
+<br>
 <br>
 <a href="https://github.com/ruleeeer">
 <img align="left" alt="Ajay's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -12,12 +13,20 @@ My name is ruleeeer and I'm a software developer. I'm from china, You can find m
 <a href="mailto:me@ruleeeer.cn">
 <img align="left" alt="Ajay's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br>
+<br>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> -->
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true"/>
+</a>
 
-[comment]: <> (## &#x270d; Blog & Writing)
+
+
+<!-- [comment]: <> (## &#x270d; Blog & Writing)
 
 [comment]: <> (Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev]&#40;https://martinheinz.dev/&#41; as well as on [Medium]&#40;https://medium.com/@martin.heinz&#41; and [DEV.to]&#40;https://dev.to/martinheinz&#41;.)
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -30,13 +39,11 @@ My name is ruleeeer and I'm a software developer. I'm from china, You can find m
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) -->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
 
 <!-- links to social media icons -->
 
