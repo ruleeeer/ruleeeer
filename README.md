@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - A software engineer
 - I’m currently learning Vue,Vite,Go
 - How to reach me
-<div>
   <a href="https://github.com/ruleeeer">
   <img align="left" alt="Ajay's Github" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
@@ -30,8 +29,7 @@ Here are some ideas to get you started:
   <a href="mailto:me@ruleeeer.cn">
   <img align="left" alt="Ajay's Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  </div>
-
+<br>
 ### Languages
 <div>
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg"/>
