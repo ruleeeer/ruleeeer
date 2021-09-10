@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ### Languages
 <div>
-  <img  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg"/>
-  <img  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg"/>
-  <img  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg"/>
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg"/>
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg"/>
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg"/>
   </div>
 
 
