@@ -1,7 +1,7 @@
 
-# Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Here,Im ruleeeer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My name is ruleeeer and I'm a software developer. I'm from china.
+### I'm a software developer. I'm from china.
 + Currently learning typescript and javascript
 + Interested in Vue,Vite and Go
 + Mainly use java and js&ts to work
