@@ -3,7 +3,6 @@
 
 ### I'm a software developer. I'm from china.
 + Currently learning typescript and javascript
-+ Interested in Vue,Vite and Go
 + Mainly use java and js&ts to work
 
 ### You can contact me on ...
