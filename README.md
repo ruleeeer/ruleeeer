@@ -9,9 +9,7 @@
 <a href="https://github.com/ruleeeer">
 <img align="left" alt="ruleeeer's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/ruleeeer">
-<img align="left" alt="ruleeeer's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>  
+
 <a href="mailto:me@ruleeeer.cn">
 <img align="left" alt="ruleeeer's Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
