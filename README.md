@@ -1,7 +1,7 @@
 
 # Here,Im ruleeeer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm a software developer. I'm from china.
+### I'm a software developer. Like to study new things
 + Expertise in java and nodejs and working with them
 + Currently interested in Rust
 
