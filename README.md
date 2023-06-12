@@ -2,8 +2,14 @@
 # Here,Im ruleeeer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### I'm a software developer. I'm from china.
-+ Currently learning typescript and javascript
-+ Mainly use java and js&ts to work
++ Expertise in java and nodejs and working with them
++ Currently interested in Rust
+
+### The main github repositories currently involved in maintenance
++ [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) :Module Federation for vite & rollup
++ [leetcode-daily-question](https://github.com/ruleeeer/leetcode-daily-question) :Easily get to leetcode's Question of the Day with 0 running dependencies
++ [leetcode-daily-mailer](https://github.com/ruleeeer/leetcode-daily-mailer): A nodejs application that sends daily leetcode questions of the day to mailboxes, deployed on vercel
++ [ruleeeer-efb-wechat](https://github.com/ruleeeer/ruleeeer-efb-wechat): The docker image for receiving WeChat messages using Telegram can be run by providing only two configuration parameters
 
 ### You can contact me on ...
 <a href="https://github.com/ruleeeer">
@@ -18,9 +24,11 @@
 
 <a href="https://github.com/ruleeeer">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> -->
-   <img src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ruleeeer&show_icons=true&line_height=27&count_private=true"/> -->
 </a>
 <br>
+
+### 
 
 
 
