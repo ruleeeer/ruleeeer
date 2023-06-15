@@ -2,7 +2,7 @@
 # Here,Im ruleeeer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### I'm a software developer. Like to study new things
-+ Specialized in Java and Js
++ Specialized in Java and JS
 + Currently interested in Rust
 
 ### The main github repositories currently involved in maintenance
