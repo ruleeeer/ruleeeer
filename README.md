@@ -10,9 +10,9 @@
 | name | desc| 
 | :--- | :----- | 
 | [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) | Module Federation for vite & rollup   | 
-| [leetcode-daily-question](https://github.com/ruleeeer/leetcode-daily-question) | Easily get to leetcode's Question of the Day with 0 running dependencies   | 
-| [leetcode-daily-mailer](https://github.com/ruleeeer/leetcode-daily-mailer) | A nodejs application that sends daily leetcode questions of the day to mailboxes, deployed on vercel   |
 | [ruleeeer-efb-wechat](https://github.com/ruleeeer/ruleeeer-efb-wechat) | The docker image for receiving WeChat messages using Telegram   | 
+| [leetcode-daily-mailer](https://github.com/ruleeeer/leetcode-daily-mailer) | A nodejs application that sends daily leetcode questions of the day to mailboxes, deployed on vercel   |
+
 
 ### You can contact me on ...
 <a href="https://github.com/ruleeeer">
